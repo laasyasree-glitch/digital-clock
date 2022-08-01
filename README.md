@@ -1,2 +1,2 @@
 # digital-clock
-https://DigitalTimerPro.ccbp.tech
+https://timesetter.ccbp.tech
