@@ -15,6 +15,11 @@
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+}
 .heading {
   font-size: 45px;
 }
